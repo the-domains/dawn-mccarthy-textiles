@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: textiles . hand woven . linen . wraps . rugs . prints.
-datePublished: '2016-05-12T13:26:39.812Z'
-dateModified: '2016-05-12T13:26:22.563Z'
+datePublished: '2016-05-12T13:30:57.548Z'
+dateModified: '2016-05-12T13:26:52.142Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-textiles--hand-woven--linen--wraps--rugs--prints.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-12-textiles--hand-woven--linen--wraps--rugs--prints.md
+starred: true
 _type: Blurb
 
 ---
