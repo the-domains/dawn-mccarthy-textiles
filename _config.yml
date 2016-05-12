@@ -1,0 +1,28 @@
+name: Dawn McCarthy Textiles
+favicon: null
+layout_spectrum: 0.584146153414622
+typography_spectrum: 0.21902954950928688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.1753082002978772
+  lightness: 0.5924862802494317
+  saturation: 0.5261057456955314
+  rhythmicContrast: 0.6113097802735865
+purpose: []
